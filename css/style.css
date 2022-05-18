@@ -1,0 +1,26 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.navbar {
+    background-color: #6c72a1;
+}
+.quem-somos{
+    background-color: rgb(190, 190, 238);
+    color:black;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: rgb(192, 209, 255);
+}
+#servicos{
+    background-color: beige;
+    padding-bottom: 100px;
+}
+.bg-footer{
+    background-color: pink;
+    
+}
